@@ -15,7 +15,7 @@ I'm open to collaboration on interesting and challenging projects. Whether it's 
 
 
 ## ⚡ Fun Fact
-When I'm not coding, you'll find me playing **FreeFire**, hitting the field for a game of **football**, exploring the outdoors, experimenting with new tools and Technologies.
+When I'm not coding, you'll find me playing **FreeFire**, hitting the field for a game of **football**, exploring the outdoors, experimenting with new **tools** and **Technologies**.
 
 ---
 
