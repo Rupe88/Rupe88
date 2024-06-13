@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rupesh Chudhary
+# 👋 Hi, I'm Rupesh Chaudhary
 
 ## About Me
 I'm a passionate **MERN & PERN stack developer** with a knack for building dynamic and responsive web applications. My journey in coding has been driven by curiosity and a desire to create impactful solutions.
