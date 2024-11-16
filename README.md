@@ -16,7 +16,7 @@
 const rupesh = {
     age: 19,
     location: "Nepal",
-    education: "Self-taught Developer",
+    education: "BCA 1st Semester || BCA chaiwala",
     role: "Full Stack Developer",
     workingOn: ["Web Apps", "APIs", "DevOps"],
     hobbies: ["FreeFire", "Football", "Learning New Tech"],
