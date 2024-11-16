@@ -77,17 +77,14 @@ const rupesh = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 My Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupe88&theme=radical&hide_border=true&area=true" width="100%">
-</p>
+
+
 
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rupe88&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="center" /> <br><br>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rupe88&show_icons=true&theme=radical&count_private=true" alt="Rupesh's github stats" /> 
+
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupe88&layout=compact&theme=radical&langs_count=10" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupe88&theme=radical&hide_border=false" width="49%" >
 </div>
@@ -125,8 +122,13 @@ const rupesh = {
 ## 🎵 Vibing To
 <div align="center">
   
-[![Spotify](https://novatorem-rupe88.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
+
+</div>
+
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
 <div align="center">
@@ -135,15 +137,6 @@ const rupesh = {
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Rupe88&color=blueviolet&style=for-the-badge)
 
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/Rupe88/Rupe88/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </div>
 
 <!--
