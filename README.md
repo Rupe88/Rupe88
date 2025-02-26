@@ -14,8 +14,6 @@
 ## 🚀 About Me
 ```typescript
 const rupesh = {
-    age: 19,
-    location: "Nepal",
     education: "BCA 1st Semester || BCA chaiwala",
     role: "Full Stack Developer",
     workingOn: ["Web Apps", "APIs", "DevOps"],
