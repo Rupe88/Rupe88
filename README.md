@@ -2,7 +2,7 @@
   
 # 👋 Hello World, I'm Rupesh Chaudhary
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7628E&center=true&vCenter=true&width=600&height=100&lines=19+y%2Fo+Full+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;MERN+%26+PERN+Stack+Enthusiast+%F0%9F%9A%80;DevOps+Explorer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Building+Digital+Solutions+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7628E&center=true&vCenter=true&width=600&height=100&lines=1900+y%2Fo+Full+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;MERN+%26+PERN+Stack+Enthusiast+%F0%9F%9A%80;DevOps+Explorer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Building+Digital+Solutions+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Building+the+future%2C+one+line+at+a+time;Passionate+about+clean+code;Always+learning%2C+always+growing" alt="Typing SVG" />
