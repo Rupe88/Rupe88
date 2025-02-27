@@ -27,6 +27,13 @@ const rupesh = {
     }
 };
 ```
+<div align="center">
+  
+### 👀 Profile Views
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Rupe88&color=blueviolet&style=for-the-badge)
+
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -129,13 +136,7 @@ const rupesh = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
-<div align="center">
-  
-### 👀 Profile Views
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Rupe88&color=blueviolet&style=for-the-badge)
 
-</div>
 
 <!--
 **Rupe88/Rupe88** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
