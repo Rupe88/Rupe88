@@ -1,4 +1,4 @@
-## 🤝 Connect With Me
+## 🤝 Connect With Me 😄
 
 <div align="center">
 <a href="mailto:chyrupesh828@gmail.com">
