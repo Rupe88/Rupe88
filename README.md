@@ -39,10 +39,19 @@
   <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40" />  
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />  
   <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" />  
+
+  <!-- Deployment & Cloud -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" alt="DigitalOcean" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" height="40"/>  
+
+  <!-- API Tools -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40"/>  
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" alt="Insomnia" height="40"/>  
 </div>
+
+
+
 
 
 
