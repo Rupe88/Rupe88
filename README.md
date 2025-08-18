@@ -24,41 +24,36 @@
 
 ### Frontend 
 <div align="left">  
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="35" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="35" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="35" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="35" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="35" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="35" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="35" />
+<img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" />
+<img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="30" />
+<img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="30" />
+<img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="30" />
+<img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="30" />
+<img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="30" />
 </div>
 
 </td><td align="top" width="33%">
 
 ### Backend
 <div align="center">  
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="35" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="35" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="35" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="35" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="35" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="35" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="35" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="35" />
+<img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" />
+<img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="30" />
+<img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="30" />
+<img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="30" />
+<img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="30" />
+<img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="30" />
+<img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30" />
 </div>
 
 </td><td align="top" width="33%">
 
 ### DevOps & Tools
 <div align="center">  
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="35" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="35" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="35" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="35" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="35" />
+<img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30" />
+<img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="30" />
+<img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" />
+<img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="30" />
+<img style="margin: 6px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="30" />
 </div>
 
 </td></tr>
