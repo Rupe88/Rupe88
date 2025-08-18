@@ -40,7 +40,10 @@
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />  
   <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />  
   <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" />  
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40"/>  
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" alt="Insomnia" height="40"/>  
 </div>
+
 
 
 
