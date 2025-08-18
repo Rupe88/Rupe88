@@ -1,6 +1,5 @@
-## Connect With Me 🤝
 
-<div align="center">
+<div align="left">
 <a href="mailto:chyrupesh828@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
 </a>
@@ -12,26 +11,21 @@
 </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="left">
   
 ### 👀 Profile Views
-  
 ![Profile Views](https://komarev.com/ghpvc/?username=Rupe88&color=blueviolet&style=for-the-badge)
 
 </div>
 
 <div align="left">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 💻 Tech Stack & Tools
 
-<table align="center">
+<table align="left">
 <tr><td align="top" width="33%">
 
 ### Frontend 
-<div align="center">  
+<div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
